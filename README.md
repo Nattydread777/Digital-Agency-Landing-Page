@@ -1,26 +1,31 @@
-# 🚀 Digital Agency Landing Page
+# 🌐 Digital Agency Landing Page
 
-A fully responsive **multi-page website template** built with **vanilla HTML, CSS, and JavaScript**.
-This project replicates a modern digital agency landing page
-
----
-
-## 📂 Features
-
-* ✅ **Responsive layout** – Works on mobile, tablet, and desktop
-* ✅ **Gradient navigation & hero sections** – Modern blended color scheme
-* ✅ **Smooth testimonial carousel** – Auto-sliding client feedback
-* ✅ **Pure Vanilla Stack** – No frameworks, no dependencies
+A modern, responsive digital agency landing page built with **HTML5, CSS3, and JavaScript** as part of the PLP Week 8 Capstone Project.
 
 ---
 
-## 📁 Project Structure
+## 📌 Features
 
-```
-/project
-  ├── index.html        # Landing page
-  ├── css/
-  │     └── style.css   # Main stylesheet
-  ├── js/
-  │     └── main.js     # Carousel & lightbox logic
-  └── images/           # Placeholder images# Ecommerce-landing-page
+- **Responsive Navigation**
+  - Fixed header with mobile-friendly toggle menu.
+- **Hero Section**
+  - Full-screen background with overlay text and call-to-action button.
+- **About Section**
+  - Overview of the agency, mission, and identity.
+- **Services**
+  - Grid layout showing different service offerings.
+- **Portfolio**
+  - Responsive image grid with hover effects.
+- **Testimonials**
+  - Auto-rotating testimonial carousel using JavaScript.
+- **Contact Form**
+  - Simple form with validation and success message.
+- **Scroll Animations**
+  - Fade-in, slide-left, and slide-right effects using Intersection Observer.
+- **Responsive Design**
+  - Fully adaptable to desktops, tablets, and mobile devices.
+
+---
+
+## 📂 Project Structure
+
